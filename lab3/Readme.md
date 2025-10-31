@@ -21,8 +21,6 @@
   - How many of the actual positives are correctly predicted.
 - **F1-Score**
   - Harmonic mean of Precision and Recall, useful for imbalanced datasets.
-- **ROC Curve and AUC**
-  - Visualization and interpretation of classifier performance.
 
 ### Graded Question is also included in this only.
 
