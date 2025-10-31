@@ -9,14 +9,14 @@ Each lab includes Python code, Jupyter notebooks, model architectures, and exper
 ## 🗂 Folder Overview
 
 | **Lab 1** | 
-| **Lab 2** | Linear Regression | Data visualization (Matplotlib, Pandas), PyTorch basics, linear model training |
-| **Lab 3** | Logistic Regression | Classification tasks, evaluation metrics — Precision, Recall, F1-score |
-| **Lab 4** | Neural Networks | Feedforward networks, activation functions, training and loss functions |
-| **Lab 5** | Optimization Algorithms | Gradient Descent, SGD, Momentum, Adagrad, RMSprop, Adam, Adadelta |
-| **Lab 6** | Advanced Concepts | Dropout, Normalization, Numerical stability, Evaluation |
-| **Lab 7** | Convolutional Neural Networks (CNNs) | CNN architecture, feature extraction, fine-tuning |
-| **Lab 8** | Recurrent Neural Networks (RNNs) | Sequential modeling, text and time-series tasks |
-| **Lab 9** | Long Short-Term Memory (LSTM) Networks | Handling long-term dependencies, RNN vs LSTM comparison |
+| **Lab 2** | Linear Regression | Data visualization (Matplotlib, Pandas), PyTorch basics, linear model training |   
+| **Lab 3** | Logistic Regression | Classification tasks, evaluation metrics — Precision, Recall, F1-score |  
+| **Lab 4** | Neural Networks | Feedforward networks, activation functions, training and loss functions |  
+| **Lab 5** | Optimization Algorithms | Gradient Descent, SGD, Momentum, Adagrad, RMSprop, Adam, Adadelta |  
+| **Lab 6** | Advanced Concepts | Dropout, Normalization, Numerical stability, Evaluation |  
+| **Lab 7** | Convolutional Neural Networks (CNNs) | CNN architecture, feature extraction, fine-tuning |  
+| **Lab 8** | Recurrent Neural Networks (RNNs) | Sequential modeling, text and time-series tasks |  
+| **Lab 9** | Long Short-Term Memory (LSTM) Networks | Handling long-term dependencies, RNN vs LSTM comparison |  
 
 
 ---
