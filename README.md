@@ -8,7 +8,7 @@ Each lab includes Python code, Jupyter notebooks, model architectures, and exper
 
 ## 🗂 Folder Overview
 
-| **Lab 1** | 
+| **Lab 1** |       
 | **Lab 2** | Linear Regression | Data visualization (Matplotlib, Pandas), PyTorch basics, linear model training |   
 | **Lab 3** | Logistic Regression | Classification tasks, evaluation metrics — Precision, Recall, F1-score |  
 | **Lab 4** | Neural Networks | Feedforward networks, activation functions, training and loss functions |  
