@@ -6,17 +6,18 @@ Each lab includes Python code, Jupyter notebooks, model architectures, and exper
 
 ---
 
-## 🗂 Folder Structure
+## 🗂 Folder Overview
 
-- `Lab1/` - *[Add Lab Title]*  
-- `Lab2/` - *[Add Lab Title]*  
-- `Lab3/` - *[Add Lab Title]*  
-- `Lab4/` - *[Add Lab Title]*  
-- `Lab5/` - *[Add Lab Title]*  
-- `Lab6/` - *[Add Lab Title]*  
-- `Lab7/` - *[Add Lab Title]*  
-- `Lab8/` - *[Add Lab Title]*  
-- `Lab9/` - *[Add Lab Title]*  
+| **Lab 1** | 
+| **Lab 2** | Linear Regression | Data visualization (Matplotlib, Pandas), PyTorch basics, linear model training |
+| **Lab 3** | Logistic Regression | Classification tasks, evaluation metrics — Precision, Recall, F1-score |
+| **Lab 4** | Neural Networks | Feedforward networks, activation functions, training and loss functions |
+| **Lab 5** | Optimization Algorithms | Gradient Descent, SGD, Momentum, Adagrad, RMSprop, Adam, Adadelta |
+| **Lab 6** | Advanced Concepts | Dropout, Normalization, Numerical stability, Evaluation |
+| **Lab 7** | Convolutional Neural Networks (CNNs) | CNN architecture, feature extraction, fine-tuning |
+| **Lab 8** | Recurrent Neural Networks (RNNs) | Sequential modeling, text and time-series tasks |
+| **Lab 9** | Long Short-Term Memory (LSTM) Networks | Handling long-term dependencies, RNN vs LSTM comparison |
+
 
 ---
 
@@ -28,8 +29,11 @@ Each lab includes Python code, Jupyter notebooks, model architectures, and exper
 - Go to the GitHub repository:  
   👉 `[Your Repo URL]`  
 - Click on a specific lab folder (e.g., Lab1/).  
-- Click on a notebook or Python file to view its contents.  
+- Click on a notebook or Python file to view its contents.
 
+**Clone the repository:**
+  "```bash
+   git clone "https://github.com/<your-username>/DL-labsheet.git"
 **Run Code Online**  
 - Open the file on GitHub.  
 - Click the "Raw" button to copy the code.  
