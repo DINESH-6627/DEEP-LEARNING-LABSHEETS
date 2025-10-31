@@ -1,4 +1,4 @@
-## 📘 Topics Covered (Labsheet4.ipynb)
+## 📘 Topics Covered (Labsheet-4.ipynb)
 
 ### 1. **Introduction to Neural Networks**
 - Biological Neuron vs. Artificial Neuron
