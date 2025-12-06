@@ -1,7 +1,7 @@
 # DEEP-LEARNING-LABSHEETS
 Solutions of Deep Learning Lab Sheets (2025-2026)
 
-This repository contains solutions to lab sheets for **Deep Learning CS475** courses at BITS PILANI.  
+This repository contains solutions to lab sheets for **Deep Learning CS475** courses at BITS PILANI(PILANI CAMPUS).  
 Each lab includes Python code, Jupyter notebooks, model architectures, and experiment results.
 
 ---
